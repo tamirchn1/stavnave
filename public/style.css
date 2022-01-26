@@ -3,3 +3,6 @@
   float: none;
   width: 100%;
 }
+body {
+  background: url("https://picsum.photos/1000") no-repeat;
+}
